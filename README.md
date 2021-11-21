@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**KotoneAoi/KotoneAoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- Make what you want to make.
-- I am a beginner.
+Make what you want to make.
+
+I am a beginner.
+
 - 👯 I’m looking to collaborate on ...a
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
